@@ -1,3 +1,5 @@
+<img width="1885" height="555" alt="image" src="https://github.com/user-attachments/assets/e320f946-7e5e-48fe-a011-487a41bd08e8" />
+
 <div align="center">
 
 <!-- Banner image placeholder — replace with actual banner export -->
@@ -26,6 +28,16 @@ Each row's `AuditData` JSON blob is decoded and routed to an operation-specific 
 Built by [Yuvi Kapoor](https://linkedin.com/in/yuvi-kapoor-5a38521a5)
 
 ---
+
+## Screenshots
+
+<img width="1440" height="891" alt="image" src="https://github.com/user-attachments/assets/cfcab3b1-ee12-4495-95c6-3c3c4b79f00b" />
+
+<img width="1902" height="946" alt="image" src="https://github.com/user-attachments/assets/ae7d2785-43c8-448d-a12f-985aa16e26ab" />
+
+
+---
+
 
 ## Features
 
