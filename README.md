@@ -5,7 +5,7 @@
 
 # UAL Operations Parser
 
-**Forensic-grade M365 Unified Audit Log parser for Business Email Compromise investigations**
+**M365 Unified Audit Log parser for Business Email Compromise investigations**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)](LICENSE)
