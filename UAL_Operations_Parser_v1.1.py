@@ -1,6 +1,6 @@
 """
 UAL Audit Log Parser
-CyberClan DFIR Tooling | Yuvi Kapoor
+DFIR Tooling | Yuvi Kapoor
 M365 Unified Audit Log – BEC Focused Parser
 """
 
